@@ -1,0 +1,34 @@
+Jacob Hawkins
+10/20/2024
+
+----
+
+This Program will
+
+---
+
+Logical Steps:
+1. Define a function to validate phone numbers, social security numbers, and zip codes.
+2. excecute the program.
+
+----
+
+Variables:
+1. phone_number: holds the phone number given by the user.
+2. ssn: holds the social security number given by the user.
+3. zip_code: holds the zip code given by the user.
+4. phone_pattern: holds the regular expression used to validate phone numbers.
+5. ssn_pattern: holds the regular expression used to validate social security numbers.
+6. zip_pattern: holds the regular expression used to zip codes.
+7. result: used temporarily inside of the test_validations() function to store the outcome of calling one of the validation functions.
+
+----
+
+Functions:
+1. validate_phone_number(phone_number): used to check if the provided phone number is in a valid format.
+2. validate_ssn(ssn): used to check if the provided social security number is in a valid format.
+3. validate_zip_code(zip_code): used to check if the provided social security number is in a valid format.
+4. main(): gathers input and checks the validity of the input.
+
+----
+
